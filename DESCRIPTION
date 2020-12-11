@@ -1,0 +1,19 @@
+Package: dataforecasting
+Type: Package
+Title: forecasting the future value
+Version: 0.1.0
+Author: Xiaohan Xiao
+Maintainer: Georgia <xxh512513088@126.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    zoo,
+    tseries,
+    forecast,
+    readxl
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
